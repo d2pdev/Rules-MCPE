@@ -1,4 +1,4 @@
-# Luật Server Pocketmine
+# Rules MCPE
 ______________________________
 ©2017 Coder Duy2Phong
 - Ngày tạo : 4/7/2017
